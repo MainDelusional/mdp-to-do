@@ -1,5 +1,3 @@
-# This is a rewrite of prk-ra-u3 using sveltekit 
-
 ## Svelte default README \/
 # create-svelte
 
